@@ -1,10 +1,15 @@
 Check out my most recent projects that showcase my skills as a developer:
 
-# [Shuffle](https://shuffle-baila.pro/)
+# [My Portfolio⤴](https://adrianfaustino.netlify.app/)
+#### Technologies:
+- TypeScript, React
+
+
+# [Shuffle⤴](https://shuffle-baila.pro/)
 #### Technologies:
 - TypeScript, NextJS, AWS S3
 
-# [SearchFlix](https://search-flix-adrian-faustino.vercel.app/search)
+# [SearchFlix⤴](https://search-flix-adrian-faustino.vercel.app/search)
 #### Technologies:
 - TypeScript, NextJS, [OMDb](https://www.omdbapi.com/) API
 
