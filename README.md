@@ -4,6 +4,9 @@ Check out my most recent projects that showcase my skills as a developer:
 #### Technologies:
 - TypeScript, React
 
+# [TrackLoop⤴](https://info.track-loop.app/)
+#### Technologies:
+- React, TypeScript, NextJS, AWS (S3, Lambda, DynamoDB, CloudFront, EventBridge, API Gateway, CloudWatch), Stripe, Clerk, GCP
 
 # [Shuffle⤴](https://shuffle-baila.pro/)
 #### Technologies:
