@@ -1,22 +1,59 @@
-Check out my most recent projects that showcase my skills as a developer:
+# Hi, I'm Adrian 👋
 
-# [My Portfolio⤴](https://adrianfaustino.netlify.app/)
-#### Technologies:
-- TypeScript, React
+I'm a software developer based in Vancouver, BC, specializing in TypeScript, React, Next.js, and Node.js. I enjoy building performant, scalable web applications and taking products from idea to production.
 
-# [TrackLoop⤴](https://info.track-loop.app/)
-#### Technologies:
-- React, TypeScript, NextJS, AWS (S3, Lambda, DynamoDB, CloudFront, EventBridge, API Gateway, CloudWatch), Stripe, Clerk, GCP
+## 🚀 Featured Applications
 
-# [Shuffle⤴](https://shuffle-baila.pro/)
-#### Technologies:
-- TypeScript, NextJS, AWS S3
+### 🎵 [TrackLoop ↗](https://info.track-loop.app/)
 
-# [SearchFlix⤴](https://search-flix-adrian-faustino.vercel.app/search)
-#### Technologies:
-- TypeScript, NextJS, [OMDb](https://www.omdbapi.com/) API
+A production-ready progressive web app for dancers and musicians to slow down music, create A-B loops, organize practice sessions, and track practice progress. Designed, built, and deployed end-to-end with a cloud-native architecture featuring authentication, subscriptions, analytics, offline support, and scalable AWS infrastructure.
+
+**Tech Stack:** React, TypeScript, Next.js, AWS (S3, Lambda, DynamoDB, CloudFront, API Gateway, EventBridge, CloudWatch), Stripe, Clerk, Google Cloud Platform (GCP)
+
+---
+
+### 🔗 [Portfolio ↗](https://adrianfaustino.netlify.app/)
+
+My personal website showcasing my experience, projects, technical background, and resume.
+
+**Tech Stack:** React, TypeScript
+
+---
+
+### 🎬 [SearchFlix ↗](https://search-flix-adrian-faustino.vercel.app/search)
+
+A responsive movie discovery application that integrates with the OMDb API, providing fast search and detailed movie information with a clean, mobile-friendly interface.
+
+**Tech Stack:** Next.js, TypeScript, OMDb API
+
+## 🛠️ Technologies
+
+**Languages**
+- TypeScript
+- JavaScript
+- Go
+- Ruby
+
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express
+- REST APIs
+
+**Cloud & Infrastructure**
+- AWS
+- Google Cloud Platform
+- Docker
+
+**Databases**
+- PostgreSQL
+- DynamoDB
+- MySQL
 
 <!---
-adrian-faustino/adrian-faustino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+adrian-faustino/adrian-faustino is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
